@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Some client",
+    "interval": 10000,
+    "batch": 2,
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/jimaek/js-test@1.1/500b-bench.jpg",
+      "https://perfops.b-cdn.net/500b-bench.jpg",
+      "https://cdnperf-rum.cdnetworks.net/500b-bench.jpg",
+      "https://perfops-ade2.kxcdn.com/500b-bench.jpg"
+    ]
+  }
+]
